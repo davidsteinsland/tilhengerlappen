@@ -154,5 +154,132 @@ Dekkene skal minst ha mønsterdybde 1,6 mm på sommerdekk (eller 3.0 mm på vint
 | 110         | 1060               |
 
 
+### Lastsikringsregler
+
+Fra [Forskrift om bruk av kjøretøy § 3-2](https://lovdata.no/forskrift/1990-01-25-92/§3-2):
+
+> Gods skal være plassert slik at føreren har tilstrekkelig utsyn og ikke hindres i å manøvrere forsvarlig. Verken påbudt lys eller kjennemerker må være tildekket.
+>
+> Godsets vekt skal være mest mulig jevnt fordelt på hjul på samme aksel og hensiktsmessig fordelt mellom akslene. Minst 20 % av kjøretøyets aktuelle totalvekt skal hvile på styrende hjul.  
+> 
+> Gods skal være sikret slik at det ikke utgjør en trussel for helse, eiendom eller miljøet. Sikringen skal hindre at godset verken kan
+> a. virke forstyrrende på sikker kjøring  
+> b. falle av kjøretøyet eller slepe på vegen,  
+> c. virke forstyrrende for andre trafikanter, eller  
+> d. ryke, støve, fremkalle unødig støy eller på annen måte være til sjenanse for omgivelsene.  
+> Det samme gjelder kjetting, tau, presenning og annet festemiddel.
+
+Oppsummerig: godset må ikke blokkere speil eller hindre sikt. 
+Det tyngste godset skal være i bunn og mest mulig sentrert på tilhengeren, med lik fordeling på hjulene.
+
+Det skal ikke være mulig at godset kan flakse av i fart, kan hekte seg i andre trafikanter, osv. Grus/stein/jord kan ryke og støve, her må det vurderes å bruke netting/presenning over.
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 3-3 nr. 1](https://lovdata.no/forskrift/1990-01-25-92/§3-3):
+
+> Under transport skal gods på kjøretøy være sikret slik at lastenheter kun minimalt kan endre posisjon i forhold til hverandre, mot vegger eller mot andre flater i kjøretøyet, og ikke kan flytte seg utenfor lasterommet eller lasteflaten.
+
+Oppsummering: godset skal altså ikke være løst eller ha mulighet for å bevege seg. Det skal være festet godt.
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 3-3 nr. 3](https://lovdata.no/forskrift/1990-01-25-92/§3-3):
+
+> Ved sikring av last […] skal sikringen minst tåle følgende krefter:   
+> a.	I kjøreretningen: 1,0 ganger godsets vekt  
+> c.	Sideveis og mot kjøreretningen: 0,5 ganger godsets vekt  
+>       Sikringen skal også hindre at lasten kan helle eller velte.
+
+Oppsummering: sikringen, f.eks. stroppene, skal minst tåle godsets vekt. Om godset veier 1000 kg må altså stroppen minst ha 1000 kg Lacing Capacity
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 3-3 nr. 4 bokstav a](https://lovdata.no/forskrift/1990-01-25-92/§3-3):
+
+> Gods skal sikres ved låsing, blokkering, direkte surring, overfallssurring eller ved kombinasjon av disse metoder. 
+> Andre metoder kan godtas hvis det det ved beregninger eller praktiske prøver kan sannsynliggjøres at den anvendte metode oppfyller kravene i nr. 3.
+
+Oppsummering: 
+
+* Låsing: Hva menes med dette? Finner lite informasjon om dette.
+* Blokkering/Stempling: brukes til å sikre godsets krefter mot å forskyve seg i alle retninger ved å fylle tomrom, og brukes oftest i kombinasjon med surring
+* Surring:
+  *	Overfallssurring: Jekken går fra den ene siden av tilhengeren, over lasten og ned på den andre. Brukes hovedsakelig til å sikrekreftene sideveis (50% av godsets vekt begge sider)
+  *	Grimesurring: Grimesurring er en surring som er svært egnet til å sikre for krefter i fartsretningen. Stroppen blir som en grime på en hest, og festes i gulvet på hengeren, opp på lasten med maksimalt 45 graders vinkel, rundt forsiden og ned på den andre siden i gulvet
+  *	Loopsurring: Ved bruk av loopsurring skal 2 stroppepar benyttes for å unngå at lasten vrir seg løs. Brukes til sikring av godsets krefter sideveis og ofte i kombinasjon med stengning.
+  *	Direkte surring: Direkte surring er en svært effektiv surremetode. Den forutsetter at en har noen surrefester i selve godset
+
+NB! Ikke surr stroppene rundt lastelemmene eller karmene på hengeren.  
+Hekter du stroppen på utsiden av hengeren, drar den over lasten og strammer til, kan du bøye og skade karmene
+
+Det anbefales ikke fiberstropper med sterkere bruddstyrke enn 2000 kg Lashing
+Force (to tonn stropp), og grunnen er at den forstramming som oppnår når båndet
+strammes med jekkestrammeren kan bli for høy i forhold til styrken i
+surrekroken i tilhengeren, som kan medføre at surrekroken ryker.
+
+Stempling:  
+![stempling][stempling]
+
+Overfallssurring:  
+![overfallssurring][overfallssurring]
+
+Grimesurring:  
+![grimesurring][grimesurring]
+
+Loopsurring:  
+![loopsurring][loopsurring]
+
+Direktesurring:  
+![direktesurring][direktesurring]
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 3-3 nr. 5](https://lovdata.no/forskrift/1990-01-25-92/§3-3):
+
+> Kjøretøykomponenter som benyttes til lastsikring skal ikke belastes med større krefter enn de er beregnet/dokumentert/konstruert for.
+
+Oppsummering: det må brukes ordentlig festemidler. Et tau er f.eks. ikke godt nok, mens stropper er bra.
+En stropp med 1000 daN Lacing Capacity (LC) skal tåle 1000 kg under bruk. LC viser til hva stroppen minimum tåler i brukt tilstand
+
+![stroppe][stroppe]
+Bildet viser en stropp med 1000 dekanewton (1000 kg) Lacing Capacity.  
+Som ny vil denne stroppen sannsynligvis tåle 2000 daN (kg). 
+Merkingen viser videre at stroppens som helhet inklusive metalldeler har en 
+bruddstyrke på 1000 daN (kg) i rett strekk og 2000 daN (kg) brukt som overfall
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 3-3 nr. 6](https://lovdata.no/forskrift/1990-01-25-92/§3-3):
+
+> Hvis det er mulig på grunn av godsets beskaffenhet og dimensjoner, skal surring på kjøretøy med åpent godsrom anbringes innenfor sidelemmer eller lignende. Er dette ikke mulig, må alle deler av surringen være festet slik at løse ender ikke kan skade annen trafikant.
+
+Oppsummering: surringen skal ligge oppi hengeren. Hvis hengeren ikke har høye sider så må surringen festes slik at den ikke kan skade andre.
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 3-3 nr. 7](https://lovdata.no/forskrift/1990-01-25-92/§3-3):
+
+> Plater skal ikke stikke utenfor lastbærerens sider i bredderetningen.
+
+Oppsummering: plater, f.eks. gipsplater, skal ligge innenfor hengeren.
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 3-3 nr. 8](https://lovdata.no/forskrift/1990-01-25-92/§3-3):
+
+> Godsbærer skal være festet til kjøretøyet på en slik måte at den ved full belastning kan tåle det som kreves etter nr. 2 eller 3.  
+> Anordning som begrenser godsrom, skal være påsatt og forsvarlig sikret under kjøring.
+
+Oppsummering: lasteplanet / skapet på tilhengeren skal også være forsvarlig festet, f.eks. med høystyrkebolter. Mest relevant for folk som f.eks. har bygget egen lasteplan på hengeren.
+
+
+
 [vekt]: img/vekt.png "Vektmåling av tilhenger"
 [dekk]: img/dekk.png "Dekkdimensjoner for tilhenger"
+[stempling]: img/stempling.png "Stempling av last"
+[overfallssurring]: img/overfallssurring.png "Overfallssurring av last"
+[grimesurring]: img/grimesurring.png "Grimesurring av last"
+[loopsurring]: img/loopsurring.png "Loopsurring av last"
+[direktesurring]: img/direktesurring.png "Direkte surring av last"
+[stroppe]: img/stroppe.png "Kraftverdier for stroppe"
