@@ -379,6 +379,34 @@ Eksempel på en anordning som kan brukes for å merke godset i lengderetningen:
 Eksempel på merking av lang last:  
 ![kjøretøy med riktig merking][eksempel_lang_last]
 
+#### Oppsummert
+
+- For bredderetning:
+  - Gods (med unntak av båt) kan ikke stikke mer enn 15 cm utenfor kjøretøyet, eller mer enn 1m foran kjøretøyet
+    - lengder utenfor dette krever tillatelse fra Statens vegvesen
+  - Avstand mellom båtens ytterste kan og baklysets ytterste kant kan ikke være mer enn 40 cm (samme gjelder reflekser) 
+    - samme krav gjelder for markeringslys foran på kjøretøyet, hvis montert.
+    - hvis markeringslyst ikke er montert, tillates transport kun i dagslys med god sikt
+    - Baugen må være plassert i kjøreretningen
+  - Samlet bredde på kjøretøy og gods/båt kan ikke overstige 2,55 m
+  - Gods som stikker ut mer enn 15 cm utenfor kjøretøyets sider skal merkes med fluoriserende røde og gule striper
+    - minst 50 cm høy og 25 cm bred, skråstilte striper ca. 5 cm brede
+  - I mørke eller dårlig sikt skal alt gods utenfor kjøretøyet merkes
+    - minst to lykter foran (en på hver side) med hvitt lys
+    - minst to lykter bak (en på hver side) med rødt lys
+    - lysåpning på minst 30 cm^2 og være plassert over hverandre
+    - lyset må være godt synlig på minst 150 meter avstand, og ikke blende
+  - lys/merking skal være plassert ytterst på godset og slik at de er godt synlige forfra og bakfra
+    - og ikke høyere enn 2,00 meter over vegbanen hvis mulig
+- For lengderetning:
+  - Gods som stikker ut foran kjøretøyet, eller mer enn 1 m bak kjøretøyet, skal tydelig merkes 
+    - med en rød og hvit anordning, men andre måter kan godtas ved tilfeldig transport
+    - minst 250 cm^2 synlig areal, og det røde materialet må være lysreflekterende
+    - anordningen skal være plassert slik at den er godt synlig
+  - I mørke eller dårlig sikt skal gods mer enn 1 m bak kjøretøyet merkes med lykt
+    - lykten skal gi rødt lys bakover og til sidene
+    - lysåpning på minst 30 cm^2
+    - lyset må være godt synlig på minst 150 meter avstand, og ikke blende
 ---
 
 ### Trekking av tilhenger
