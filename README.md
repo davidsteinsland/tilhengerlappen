@@ -22,3 +22,17 @@ som skal hjelpe meg å lære og å forstå det som trengs for å kjøre med tilh
 > Hvis hengeren synes mer i venstre speil, sving rattet mot venstre for å rette den opp.
 
 __«Rattet mot det speilet hengeren vises mest = retter opp hengeren»__
+
+## Måle vekt
+
+![vektmåling][vekt]
+
+1. Vekten måles med hengeren fremdeles tilkoblet bilen
+2. Bilen kobles i fra, og vekten måles på nytt (aktuell vekt)
+
+Koblingsvekten (vekten på hengerfestet) er differansen mellom måling i 1) og 2).
+Lasten på hengeren er differansen mellom måling i 2) og egenvekten til hengeren (se vognkort).
+
+
+
+[vekt]: img/vekt.png "Vektmåling av tilhenger"
