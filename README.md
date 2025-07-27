@@ -23,7 +23,7 @@ som skal hjelpe meg å lære og å forstå det som trengs for å kjøre med tilh
 
 __«Rattet mot det speilet hengeren vises mest = retter opp hengeren»__
 
-## Måle vekt
+### Måle vekt
 
 ![vektmåling][vekt]
 
