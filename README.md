@@ -326,11 +326,13 @@ Fra [Forskrift om bruk av kjøretøy § 3-4 nr. 2](https://lovdata.no/forskrift/
 > Om mulig må overkant av merking og lykter ikke være høyere enn 2,00 meter over vegbanen.
 
 Oppsummering:
-Gods over 15 cm ut fra sidene skal være merket med røde og gule skråstilte striper foran og bak. 
-Merkingen må være minst 50 cm høy og 25 cm bred.
+Gods utenfor tilhengeren skal i mørke eller dårlig sikt alltid merkes, 
+med minst to lykter foran (en på hver side) med hvitt lys og 
+minst to lykter bak (en på hver side) med rødt lys.
 
-Gods utenfor tilhengeren skal i mørke eller dårlig sikt alltid merkes, med minst to lykter foran (en på hver side) med
-hvitt lys og minst to lykter bak (en på hver side) med rødt lys.
+Gods over 15 cm ut fra sidene (husk: etter godkjenning fra Statens vegvesen) 
+skal være merket med røde og gule skråstilte striper foran og bak.
+Merkingen må være minst 50 cm høy og 25 cm bred.
 
 Eksempel på god merking av gods som stikker ut i bredden:
 
@@ -364,7 +366,7 @@ Det røde materialet må være lysreflekterende, og anordningen må være plasse
 
 En plastpose kan godtas.
 
-I mørke eller dårlig sikt skal godset også merkes med lykt (hvit lys foran kjøretøyet, rødt lys bak)
+I mørke eller dårlig sikt skal godset også merkes med lykt, som gir rødt lys bakover og til sidene,
 med lysåpning på minst 30 cm^2, som er godt synlig på minst 150 meter avstand.
 
 Eksempel på en anordning som kan brukes for å merke godset i lengderetningen:
