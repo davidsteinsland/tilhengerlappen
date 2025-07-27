@@ -98,6 +98,61 @@ flowchart TD
     E -->|Nei| K[Ikke tillatt]
 ```
 
+### Dekkdimensjoner
+
+![dekkdimensjoner][dekk]
+
+Man kan her lese at standard dekkdimensjon er 155/R13. (Grønn ramme). 
+Dette betyr at dekket er 155 mm bredt og er 13 tommer i diameter.
+
+Videre kan man lese at minstekravet til dekkets bæreevne (LI – LOAD INDEX) er 84 (Rød ramme). 
+Dette tilsvarer 500kg. Merk at dette gjelder for hvert enkelt dekk.
+Dekkene skal minst ha mønsterdybde 1,6 mm på sommerdekk (eller 3.0 mm på vinterstid) og 3,0 mm på vinterdekk.
+
+| Lasteindeks | Last i kg per dekk |
+|-------------|--------------------|
+| 70          | 335                |
+| 71          | 345                |
+| 72          | 355                |
+| 73          | 365                |
+| 74          | 375                |
+| 75          | 387                |
+| 76          | 400                |
+| 77          | 412                |
+| 78          | 425                |
+| 79          | 437                |
+| 80          | 450                |
+| 81          | 462                |
+| 82          | 475                |
+| 83          | 487                |
+| 84          | 500                |
+| 85          | 515                |
+| 86          | 530                |
+| 87          | 545                |
+| 88          | 560                |
+| 89          | 580                |
+| 90          | 600                |
+| 91          | 615                |
+| 92          | 630                |
+| 93          | 650                |
+| 94          | 670                |
+| 95          | 690                |
+| 96          | 710                |
+| 97          | 730                |
+| 98          | 750                |
+| 99          | 775                |
+| 100         | 800                |
+| 101         | 825                |
+| 102         | 850                |
+| 103         | 875                |
+| 104         | 900                |
+| 105         | 925                |
+| 106         | 950                |
+| 107         | 975                |
+| 108         | 1000               |
+| 109         | 1030               |
+| 110         | 1060               |
 
 
 [vekt]: img/vekt.png "Vektmåling av tilhenger"
+[dekk]: img/dekk.png "Dekkdimensjoner for tilhenger"
