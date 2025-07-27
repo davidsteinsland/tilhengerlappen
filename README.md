@@ -73,7 +73,7 @@ tillatte tilhengervekt (O.1 og O.2 i vognkortet).**
 
 ```mermaid
 flowchart TD
-    A[Veier fa:fa-car inntil 3500 kg?]
+    A[Veier bilen inntil 3500 kg?]
     A --> Nei --> B[Ikke tillat]
     A --> C[Ja] --> G[Veier hengeren inntil 750 kg?]
     G --> E[Nei] --> F[Er samlet totalvekt for vogntoget inntil 3500 kg?]
