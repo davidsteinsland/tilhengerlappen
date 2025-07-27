@@ -381,6 +381,87 @@ Eksempel på merking av lang last:
 
 ---
 
+### Trekking av tilhenger
+
+Fra [Forskrift om bruk av kjøretøy § 4-2 nr. 2](https://lovdata.no/forskrift/1990-01-25-92/§4-2):
+
+> Motorvogn må ikke brukes til å trekke tilhenger eller tilhengerredskap med større fart 
+> enn tilhengeren eller tilhengerredskapen er konstruert for.
+
+Oppsummering:
+det er tilhengeren som bestemmer øvre hastighet. 
+For alle tilhengere med/uten brems er 80 km/t øvre hastighet. 
+Reglene ble endret 11. Mars 2022; før dette var tilhengere uten brems begrenset til 60 km/t.
+Enkelte tilhengere har tempo 100-godkjenning som tillater hastigheter opp til 100 km/t. 
+Det er Statens vegvesen som gir slik godkjenning.
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 4-2 nr. 3](https://lovdata.no/forskrift/1990-01-25-92/§4-2):
+
+> Motorvogn må ikke brukes til å trekke tilhenger eller tilhengerredskap uten at dens trekkdel 
+> er av type og størrelse som er tillatt for vedkommende tilhenger eller tilhengerredskap, 
+> eller uten at tilhengerens eller tilhengerredskapens dragdel passer til motorvognens trekkdel.
+
+Oppsummering:
+I bilen vognkort står det hvor tung henger bilen kan trekke (O.1 og O.2), 
+og hvor mye vekt bilen kan ha på tilhengerfestet.
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 4-2 nr. 4](https://lovdata.no/forskrift/1990-01-25-92/§4-2):
+
+> Motorvogn må ikke brukes til å trekke tilhenger eller tilhengerredskap med aktuell totalvekt 
+> som er større enn den vektgrense for tilhenger som er fastsatt for motorvognen. 
+> Fastsatt vogntogvekt for motorvognen må ikke overskrides.
+
+Oppsummering:
+Total aktuell vekt (vekten på bil + passasjerer + tilhenger + nyttelast) 
+kan ikke overstige maksimal tillatt vogntogvekt (F.3)
+
+![vektbegrensninger i vognkort][vognkort]
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 4-2 nr. 7 bokstav a](https://lovdata.no/forskrift/1990-01-25-92/§4-2):
+
+> Motorvogn må ikke brukes til å trekke tilhenger eller tilhengerredskap uten at minst 
+> ett speil gir slik synsfelt at tilhengeren eller tilhengerredskapen kan sees. 
+> Er tilhengeren eller tilhengerredskapen like bred eller bredere enn den trekkende motorvognen, 
+> skal minst begge sider av tilhengeren eller tilhengerredskapen kunne sees i de utvendige speil 
+> og speilene skal gi slikt synsfelt at føreren kan se vegbanen  
+>-	på venstre side i en bredde av minst 2,5 m på en avstand av 10 m bakenfor speil og videre så langt bakover som øyet rekker.  
+>-	på høyre side i en bredde av minst 2 m på en avstand av 10 m bakenfor speilet og videre så langt bakover som øyet rekker.
+
+Oppsummering:
+Du må kunne se tilhengeren i minst ett speil, og det er krav til synsfelt 2,5m på venstre side (bredde) og 
+høyre side er det krav til 2 m bredde, begge på avstand på 10 m. 
+Hvis hengeren er minst like bred som bilen så skal begge hengeren være synlig i begge speil.
+
+![påkrevd synsfelt][synsfelt]
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 4-2 nr. 7 bokstav b](https://lovdata.no/forskrift/1990-01-25-92/§4-2):
+
+> Når bredden på tilhenger/tilhengerredskap er over 2,30 m og breddeforskjellen 
+> mellom motorvogn og tilhenger/tilhengerredskap er mer enn 50 cm, skal speilene på 
+> fremsiden være utstyrt med hvit refleks som oppfyller 
+> kravene i kjøretøyforskriften § 28-3 nr. 5.1. 
+> Kravene om plassering i nr. 5.2 skal ikke gjelde speil ved trekking av tilhenger.
+
+Oppsummering:
+Du må kunne se tilhengeren i minst ett speil, og det er krav til synsfelt 2,5m på venstre side (bredde) og 
+høyre side er det krav til 2 m bredde, begge på avstand på 10 m. 
+Hvis hengeren er minst like bred som bilen så skal begge hengeren være synlig i begge speil.
+
+![ekstra speil][ekstra_speil]
+
+---
+
+
+
+
 [vekt]: img/vekt.png "Vektmåling av tilhenger"
 [dekk]: img/dekk.png "Dekkdimensjoner for tilhenger"
 [stempling]: img/stempling.png "Stempling av last"
@@ -395,3 +476,6 @@ Eksempel på merking av lang last:
 [markør_lengderetning]: img/markor_lengderetning.png "Markør for utstikkende gods i lengderetning"
 [markør_bred_last]: img/markor_bred_last.png "Markør for bred last"
 [eksempel_lang_last]: img/eksempel_lang_last.png "Eksempel på lang last"
+[vognkort]: img/vognkort.png "Vognkort for bil med vektbegrensninger"
+[synsfelt]: img/synsfelt.png "Påkrevd synsfelt for tilhenger i speil"
+[ekstra_speil]: img/ekstra_speil.png "Ekstra speil for bred tilhenger"
