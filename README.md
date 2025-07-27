@@ -82,6 +82,10 @@ flowchart TD
     G --> D[Ja] --> Tillatt
     H --> I[Er samlet totalvekt for vogntoget inntil 4250 kg?]
     I --> J[Ja]
+    I --> K[Nei] --> B
+    J --> L[Har du B96?] --> M[Ja] --> Tillatt
+    L --> O[Nei] --> B
+
 ```
 
 
