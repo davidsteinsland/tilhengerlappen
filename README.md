@@ -300,7 +300,7 @@ Fra [Forskrift om bruk av kjøretøy § 3-4 nr. 1 bokstav b](https://lovdata.no/
 
 ![båt][båt]
 
-Oppsummering: Båt, med maksimal bredde på 2,55 m, kan stikke lenger ut enn 15 cm fra bilen, 
+Oppsummering: Båt, med maksimal bredde på 2,55 m, kan stikke lenger ut enn 15 cm fra kjøretøyet, 
 men avstanden mellom båtens ytterste kant og baklysets (på tilhengerens) ytterste kant 
 kan ikke være mer enn 40 cm.
 
