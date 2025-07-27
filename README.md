@@ -158,11 +158,14 @@ Dekkene skal minst ha mønsterdybde 1,6 mm på sommerdekk (eller 3.0 mm på vint
 
 Fra [Forskrift om bruk av kjøretøy § 3-2](https://lovdata.no/forskrift/1990-01-25-92/§3-2):
 
-> Gods skal være plassert slik at føreren har tilstrekkelig utsyn og ikke hindres i å manøvrere forsvarlig. Verken påbudt lys eller kjennemerker må være tildekket.
+> Gods skal være plassert slik at føreren har tilstrekkelig utsyn og ikke hindres i å manøvrere forsvarlig. 
+> Verken påbudt lys eller kjennemerker må være tildekket.
 >
-> Godsets vekt skal være mest mulig jevnt fordelt på hjul på samme aksel og hensiktsmessig fordelt mellom akslene. Minst 20 % av kjøretøyets aktuelle totalvekt skal hvile på styrende hjul.  
+> Godsets vekt skal være mest mulig jevnt fordelt på hjul på samme aksel og hensiktsmessig fordelt mellom akslene. 
+> Minst 20 % av kjøretøyets aktuelle totalvekt skal hvile på styrende hjul.  
 > 
-> Gods skal være sikret slik at det ikke utgjør en trussel for helse, eiendom eller miljøet. Sikringen skal hindre at godset verken kan
+> Gods skal være sikret slik at det ikke utgjør en trussel for helse, eiendom eller miljøet. 
+> Sikringen skal hindre at godset verken kan
 > a. virke forstyrrende på sikker kjøring  
 > b. falle av kjøretøyet eller slepe på vegen,  
 > c. virke forstyrrende for andre trafikanter, eller  
