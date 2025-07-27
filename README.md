@@ -326,7 +326,7 @@ Fra [Forskrift om bruk av kjøretøy § 3-4 nr. 2](https://lovdata.no/forskrift/
 > Om mulig må overkant av merking og lykter ikke være høyere enn 2,00 meter over vegbanen.
 
 Oppsummering:
-God over 15 cm ut fra sidene skal være merket med røde og gule skråstilte striper foran og bak. 
+Gods over 15 cm ut fra sidene skal være merket med røde og gule skråstilte striper foran og bak. 
 Merkingen må være minst 50 cm høy og 25 cm bred.
 
 Gods utenfor tilhengeren skal i mørke eller dårlig sikt alltid merkes, med minst to lykter foran (en på hver side) med
