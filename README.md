@@ -451,9 +451,11 @@ Fra [Forskrift om bruk av kjøretøy § 4-2 nr. 7 bokstav b](https://lovdata.no/
 > Kravene om plassering i nr. 5.2 skal ikke gjelde speil ved trekking av tilhenger.
 
 Oppsummering:
-Du må kunne se tilhengeren i minst ett speil, og det er krav til synsfelt 2,5m på venstre side (bredde) og 
-høyre side er det krav til 2 m bredde, begge på avstand på 10 m. 
-Hvis hengeren er minst like bred som bilen så skal begge hengeren være synlig i begge speil.
+Hvis hengeren er bredere enn 2,30 m og breddeforskjellen mellom bil og henger er mer enn 50 cm,
+skal speilene på fremsiden av bilen være utstyrt med hvit refleks.
+
+Typisk vil man bruke ekstra speil for å oppfylle dette kravet siden kravet for synsfelt
+gjør at det er vanskelig å se tilhengeren i speilene uten ekstra speil.
 
 ![ekstra speil][ekstra_speil]
 
