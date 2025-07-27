@@ -274,6 +274,107 @@ Fra [Forskrift om bruk av kjøretøy § 3-3 nr. 8](https://lovdata.no/forskrift/
 Oppsummering: lasteplanet / skapet på tilhengeren skal også være forsvarlig festet, f.eks. med høystyrkebolter. Mest relevant for folk som f.eks. har bygget egen lasteplan på hengeren.
 
 
+### Merking av gods
+
+Fra [Forskrift om bruk av kjøretøy § 3-4 nr. 1 bokstav a](https://lovdata.no/forskrift/1990-01-25-92/§3-4):
+
+> For transporter med bredde inntil 2,55 meter inkludert gods, må godset ikke strekke seg mer enn 15 cm utenfor kjøretøyets sider uten tillatelse fra Statens vegvesen.   
+> Tilsvarende gjelder for gods som stikker ut mer enn 1,00 meter foran kjøretøyet.
+
+![utstikkende gods][utstikkende_gods]
+
+Oppsummering: maksimal bredde er 2,55 m. 
+Gods kan ikke strekke seg mer enn 15 cm utenfor bilen, eller 1 meter foran bilen, uten tillatelse fra Statens vegvesen.
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 3-4 nr. 1 bokstav b](https://lovdata.no/forskrift/1990-01-25-92/§3-4):
+
+> Transport av båt med bredde inntil 2,55 meter tillates selv om båten stikker mer 
+> enn 15 cm utenfor kjøretøyets sider.  
+> Avstanden fra baklysets ytterkant til båtens ytterste kant skal ikke overstige 40 cm. 
+> Det samme gjelder reflekser bak på tilhengeren.  
+> Det samme kravet gjelder for markeringslys dersom slikt lys er montert foran på kjøretøyet. 
+> Dersom kjøretøyet ikke er utstyrt ned markeringslykt tillates transport kun i dagslys med god sikt.  
+> Båtens baug skal være plassert i kjøreretningen.
+
+![båt][båt]
+
+Oppsummering: Båt, med maksimal bredde på 2,55 m, kan stikke lenger ut enn 15 cm fra bilen, 
+men avstanden mellom båtens ytterste kant og baklysets (på tilhengerens) ytterste kant 
+kan ikke være mer enn 40 cm.
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 3-4 nr. 2](https://lovdata.no/forskrift/1990-01-25-92/§3-4):
+
+> Merking av gods som stikker ut i bredderetningen:  
+> 
+> Gods som strekker seg 15 cm eller mer utenfor kjøretøyets sider, 
+> skal foran og bak være tydelig merket. 
+> Merkingen skal være minst 50 cm høy og minst 25 cm bred og utført med   
+> avvekslende røde og gule striper som skal være skråstilt og ca. 5 cm brede.   
+> Fargen skal være varig fluoriserende eller av type som er godkjent av Vegdirektoratet.  
+>
+> Gods som strekker seg utenfor kjøretøyets sider, skal i mørke eller usiktbart vær også foran på 
+> hver side være merket med minst to lykter som gir hvitt lys fremover, og bak på hver side 
+> med minst to lykter som gir rødt lys bakover. Lyktene skal ha en lysåpning 
+> på minst 30 cm^2 og være plassert over hverandre. 
+> Lyset må ikke virke blendende og skal være godt synlig på minst 150 meter avstand.  
+>
+> Merking og lykter skal være plassert ytterst på godset og slik at de er godt synlige forfra og bakfra. 
+> Om mulig må overkant av merking og lykter ikke være høyere enn 2,00 meter over vegbanen.
+
+Oppsummering:
+God over 15 cm ut fra sidene skal være merket med røde og gule skråstilte striper foran og bak. 
+Merkingen må være minst 50 cm høy og 25 cm bred.
+
+Gods utenfor tilhengeren skal i mørke eller dårlig sikt alltid merkes, med minst to lykter foran (en på hver side) med
+hvitt lys og minst to lykter bak (en på hver side) med rødt lys.
+
+Eksempel på god merking av gods som stikker ut i bredden:
+
+![en markfør for bred last][markør_bred_last]
+
+---
+
+Fra [Forskrift om bruk av kjøretøy § 3-4 nr. 23](https://lovdata.no/forskrift/1990-01-25-92/§3-4):
+
+> Merking av gods som stikker ut i lengderetningen:
+>
+> Gods som stikker ut foran kjøretøyet eller mer enn 1,00 meter bak kjøretøyet, 
+> skal være merket ytterst med en anordning som har avvekslende rød og hvit farge og 
+> fra alle sider har et synlig areal på minst 250 cm^2. 
+> Det røde materialet skal være lysreflekterende. 
+> Anordningen skal være plassert slik at den er godt synlig.
+> 
+> Ved tilfeldig transport kan merkingen skje på annen tydelig måte.
+> 
+> I mørke eller usiktbart vær skal gods som stikker ut mer enn 1,00 meter bak kjøretøyet 
+> også merkes med lykt som gir rødt lys bakover og til sidene. 
+> Lykten skal ha lysåpning på minst 30 cm^2. 
+> Lyset må ikke virke blendende og skal være godt synlig på minst 150 meter avstand.
+
+![utstikkende i gods i lengden][utstikkende_gods_lengden]
+
+Oppsummering:
+Hvis godset stikker ut foran bilen, eller mer enn 1 m bak fra kjøretøyet, skal det merkes 
+med anordning som har avvekslende rød og hvit farge på minst 250 cm^2. 
+Det røde materialet må være lysreflekterende, og anordningen må være plassert slik at den er godt synlig. 
+
+En plastpose kan godtas.
+
+I mørke eller dårlig sikt skal godset også merkes med lykt (hvit lys foran kjøretøyet, rødt lys bak)
+med lysåpning på minst 30 cm^2, som er godt synlig på minst 150 meter avstand.
+
+Eksempel på en anordning som kan brukes for å merke godset i lengderetningen:
+
+![en markfør i lengderetningen][markør_lengderetning]
+
+Eksempel på merking av lang last:  
+![kjøretøy med riktig merking][eksempel_lang_last]
+
+---
 
 [vekt]: img/vekt.png "Vektmåling av tilhenger"
 [dekk]: img/dekk.png "Dekkdimensjoner for tilhenger"
@@ -283,3 +384,9 @@ Oppsummering: lasteplanet / skapet på tilhengeren skal også være forsvarlig f
 [loopsurring]: img/loopsurring.png "Loopsurring av last"
 [direktesurring]: img/direktesurring.png "Direkte surring av last"
 [stroppe]: img/stroppe.png "Kraftverdier for stroppe"
+[utstikkende_gods]: img/utstikkende_gods.png "Utstikkende gods i bredden"
+[utstikkende_gods_lengden]: img/utstikkende_gods_lengden.png "Utstikkende gods i lengden"
+[båt]: img/baat.png "Båt som stikker ut"
+[markør_lengderetning]: img/markor_lengderetning.png "Markør for utstikkende gods i lengderetning"
+[markør_bred_last]: img/markor_bred_last.png "Markør for bred last"
+[eksempel_lang_last]: img/eksempel_lang_last.png "Eksempel på lang last"
