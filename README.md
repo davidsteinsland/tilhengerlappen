@@ -42,6 +42,8 @@ For å kjøre med tilhenger er det to ting som er begrensende:
 - førerkortklassen din
 - bilens maksimale tillatte tilhengervekt (O.1 og O.2 i vognkortet)
 
+#### Førekortbegrensninger
+
 Fra [førerkortforskriften § 3-5](https://lovdata.no/forskrift/2004-01-19-298/§3-5):
 
 > Førerett i klasse B gjelder for:
@@ -67,9 +69,17 @@ Oppsummert: med klasse BE kan tilhengeren veie opp til 3500 kg.
 | 2000 kg       | 1500 kg             | 3500 kg           | ✅ Ja, jmf. § 3-5 nr. 3                |
 | 3000 kg       | 2000 kg             | 5000 kg           | ❌ Nei, ikke uten klasse BE            |
 
-**Selv om du kan kjøre tilhengeren så må du påse at den aktuelle vekten ikke overstiger bilens maksimale 
-tillatte tilhengervekt (O.1 og O.2 i vognkortet).**
+#### Bilens begrensninger
 
+> Maksimal vogntogvekt = Tillatt totalvekt bil (F.2) + Tillatt totalvekt tilhenger
+
+Bilen kan trekke tilhengeren dersom «aktuell vekt» (tilhengerens egenvekt + nyttelast) er innenfor 
+«Maksvekt tilhenger m/brems (O.1)» (alternativt O.2 om hengeren er uten brems). 
+
+I tillegg må total vogntogvekt være innenfor bilens Maks vogntogvekt (se vognkortet til bilen).
+Dette kravet er du innenfor så lenge hengeren er innenfor bilens maksimale tillatte tilhengervekt, så 
+fremt bilen i seg selv ikke er fullstappet med last. 
+Er du i tvil så kan du veie bilen med hengeren koblet til og påse at vekten er innenfor.
 
 ```mermaid
 flowchart TD
@@ -87,6 +97,7 @@ flowchart TD
     D -->|Nei| J[Ikke tillatt]
     E -->|Nei| K[Ikke tillatt]
 ```
+
 
 
 [vekt]: img/vekt.png "Vektmåling av tilhenger"
