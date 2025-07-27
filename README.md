@@ -74,18 +74,18 @@ tillatte tilhengervekt (O.1 og O.2 i vognkortet).**
 ```mermaid
 flowchart TD
     A[Veier bilen inntil 3500 kg?]
-    A --> Nei --> B[Ikke tillat]
-    A --> C[Ja] --> G[Veier hengeren inntil 750 kg?]
-    G --> E[Nei] --> F[Er samlet totalvekt for vogntoget inntil 3500 kg?]
-    F --> N[Ja] --> Tillatt
-    F --> H[Nei]
-    G --> D[Ja] --> Tillatt
-    H --> I[Er samlet totalvekt for vogntoget inntil 4250 kg?]
-    I --> J[Ja]
-    I --> K[Nei] --> B
-    J --> L[Har du B96?] --> M[Ja] --> Tillatt
-    L --> O[Nei] --> B
+    B[Veier hengeren inntil 750 kg?]
+    C[Er samlet totalvekt for vogntoget inntil 3500 kg?]
+    D[Er samlet totalvekt for vogntoget inntil 4250 kg?]
+    E[Har du B96?]
 
+    A -->|Nei| F[Ikke tillatt]
+    A -->|Ja| B -->|Ja| G[Tillatt]
+
+    B -->|Nei| C -->|Ja| H[Tillatt]
+    C -->|Nei| D -->|Ja| E -->|Ja| I[Tillatt]
+    D -->|Nei| J[Ikke tillatt]
+    E -->|Nei| K[Ikke tillatt]
 ```
 
 
