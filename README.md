@@ -489,7 +489,9 @@ gjør at det er vanskelig å se tilhengeren i speilene uten ekstra speil.
 
 ---
 
+## Ryggeteknikk
 
+![rygger i en z-form][z_sving]
 
 
 [vekt]: img/vekt.png "Vektmåling av tilhenger"
@@ -509,3 +511,4 @@ gjør at det er vanskelig å se tilhengeren i speilene uten ekstra speil.
 [vognkort]: img/vognkort.png "Vognkort for bil med vektbegrensninger"
 [synsfelt]: img/synsfelt.png "Påkrevd synsfelt for tilhenger i speil"
 [ekstra_speil]: img/ekstra_speil.png "Ekstra speil for bred tilhenger"
+[z_sving]: img/z-sving.gif "Ryggeteknikk for tilhenger"
