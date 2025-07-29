@@ -493,6 +493,8 @@ gjør at det er vanskelig å se tilhengeren i speilene uten ekstra speil.
 
 ![rygger i en z-form][z_sving]
 
+Inspirert av [Z Method for Backing a Trailer (Michigan Traveler)](https://michigantraveler.org/2013/01/22/z-method-for-backing-a-5th-wheel/)
+og [The three legs of the “Z” route (LTL Mentor)](https://www.ltlmentor.com/the-secrets-of-the-setup-the-three-legs-of-the-z-set-up-lesson-2/).
 
 [vekt]: img/vekt.png "Vektmåling av tilhenger"
 [dekk]: img/dekk.png "Dekkdimensjoner for tilhenger"
