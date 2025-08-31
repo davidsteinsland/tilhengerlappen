@@ -205,8 +205,9 @@ Fra [Forskrift om bruk av kjøretøy § 3-3 nr. 4 bokstav a](https://lovdata.no/
 
 Oppsummering: 
 
-* Låsing: Hva menes med dette? Finner lite informasjon om dette.
-* Blokkering/Stempling: brukes til å sikre godsets krefter mot å forskyve seg i alle retninger ved å fylle tomrom, og brukes oftest i kombinasjon med surring
+* Låsing: Mest brukt på f.eks. containere (de låses fast i hvert hjørne).
+* Stenging (blokkering/stempling): brukes til å sikre godsets krefter mot å forskyve seg i alle retninger ved å fylle tomrom, og brukes oftest i kombinasjon med surring.
+  * Kan f.eks. være kiler, et stag, eller annet som hindrer at godset kan bevege seg.
 * Surring:
   *	Overfallssurring: Jekken går fra den ene siden av tilhengeren, over lasten og ned på den andre. Brukes hovedsakelig til å sikrekreftene sideveis (50% av godsets vekt begge sider)
   *	Grimesurring: Grimesurring er en surring som er svært egnet til å sikre for krefter i fartsretningen. Stroppen blir som en grime på en hest, og festes i gulvet på hengeren, opp på lasten med maksimalt 45 graders vinkel, rundt forsiden og ned på den andre siden i gulvet
@@ -221,7 +222,7 @@ Force (to tonn stropp), og grunnen er at den forstramming som oppnår når bånd
 strammes med jekkestrammeren kan bli for høy i forhold til styrken i
 surrekroken i tilhengeren, som kan medføre at surrekroken ryker.
 
-Stempling:  
+Stenging:  
 ![stempling][stempling]
 
 Overfallssurring:  
